@@ -26,7 +26,7 @@ Note: AI tools (Claude, Mistral and Github Copilot) supported routine code gener
    ```
    $CARLA_PATH$/PythonAPI/examples
    ```
-**Important:** This will overwrite existing files in the target directory. Make backups of any original CARLA files you wish to preserve before proceeding.
+   **Important:** This will overwrite existing files in the target directory. Make backups of any original CARLA files you wish to preserve before proceeding.
 
 3. Install the required Python dependencies:
    ```
