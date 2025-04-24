@@ -60,5 +60,5 @@ Note: AI tools (Claude, Mistral and Github Copilot) supported routine code gener
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
