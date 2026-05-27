@@ -53,7 +53,7 @@ Note: AI tools (Claude, Mistral and Github Copilot) supported routine code gener
    ```
    - Where `SPAWN_POINT` is the numerical ID of the desired spawn location for your ego bicycle. (Please refer to [CARLA documentation on map spawn points](https://carla.readthedocs.io/en/latest/tuto_G_getting_started/#using-and-visualizing-map-spawn-points))
 
-8. [Optional] To run the simulation across multiple screens, use the `run.ps1` sample script. Adjust the screen configurations in `AdditionalDisplay.py` to match your setup:
+8. [Optional] To run the simulation across multiple screens, use the `run.ps1` sample script. Adjust the ANT+ Connector moduel in `run.ps1` and the screen configurations in `AdditionalDisplay.py` to match your setup:
 
    - Set the pixel resolutions for each screen.
    - Define their physical alignment relative to each other.
