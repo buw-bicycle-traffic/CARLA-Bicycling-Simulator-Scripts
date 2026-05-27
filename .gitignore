@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Local configuration files
+Device0.txt
+Device1.txt
